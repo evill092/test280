@@ -1,4 +1,5 @@
 # Test Repo for 280
+adding more data through git hub now for class exercise 3
 
-How is everyone doing
-Hello
+
+adding additiona data for exercise 3, eating breakfast too.
